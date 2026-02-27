@@ -1,6 +1,7 @@
-// Copyright 2025 UNN-CS
+// Copyright 2026 UNN-CS
 #include "alg.h"
 
-int main() {
+int main()
+{
     return 0;
 }
